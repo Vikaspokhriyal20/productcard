@@ -1,12 +1,12 @@
 *
 {
     box-sizing: border-box;
-    font-family: 'Arya' , monospace;
+    font-family:  monospace;
 }
 
 body
 {
-    background-color: black;
+    background-color: #fff;
 }
 
 h2
@@ -30,11 +30,12 @@ h2
 
 .card
 {
-    background-color: #fff;
+    background-color:violet;
     padding: 12px 8px;
     border-radius: 4px;
     position: relative;
-   line-height: 8px;
+    line-height: 8px;
+    /* border: 1px solid black; */
 
 }
 
@@ -55,10 +56,12 @@ h2
     right: 0;
     border: none;
     outline: none;
-    background-color: orange;
+    background-color: white;
+    background-color: yellow;
     border-top-right-radius: 4px;
-    border-bottom-left-radius: 20px;
+    border-bottom-left-radius: 4px;
     padding: 6px;
+    
 }
 
 .card img 
@@ -68,10 +71,10 @@ h2
 
 #shop-now
 {
-    border: 2px solid violet;   
+    border: 2px solid black;   
     outline: none;
-    background-color: violet;
-    color: black;
+    background-color: black;
+    color: white;
     padding: 4px 8px;
     border-radius: 4px;
     cursor: pointer;
@@ -79,7 +82,7 @@ h2
 
 #AddCart
 {
-    border: 2px solid violet;
+    border: 2px solid black;
     outline: none;
     background-color:white;
     color: black;
