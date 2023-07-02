@@ -33,8 +33,6 @@ h2
     padding: 12px 8px;
     position: relative;
     line-height: 8px;
-    box-shadow: white 0px 1px 4px;
-    border-radius: 4px;
 }
 
 #title
@@ -59,7 +57,6 @@ h2
     outline: none;
     background-color: white;
     background-color: yellow;
-    border-top-right-radius: 4px;
     padding: 6px;
     
 }
