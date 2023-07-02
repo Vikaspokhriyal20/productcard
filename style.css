@@ -70,25 +70,26 @@ h2
 
 #shop-now
 {
-    border: 2px solid black;   
+    border: none;   
     outline: none;
     background-color: black;
     color: white;
-    padding: 4px 8px;
+    padding: 6px 6px;
     border-radius: 4px;
     cursor: pointer;
 }
 
 #AddCart
 {
-    border: 2px solid black;
+    border: none;
     outline: none;
     background-color:white;
     color: black;
-    padding: 4px 8px;
-    border-radius: 4px; 
+    padding: 6px 6px;
     cursor: pointer;
+    border-radius: 4px;
 }
+
 
 @media screen and (max-width:920px) {
     .container
