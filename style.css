@@ -33,20 +33,21 @@ h2
     padding: 12px 8px;
     position: relative;
     line-height: 8px;
-
+    box-shadow: white 0px 1px 4px;
+    border-radius: 4px;
 }
 
 #title
 {
     text-align: left;
-    color:black;
+    color:white;
     letter-spacing: 1.5px;
 }
 
 #price
 {
     text-align: left;
-    color: black;
+    color: white;
 }
 
 #discount
@@ -58,6 +59,7 @@ h2
     outline: none;
     background-color: white;
     background-color: yellow;
+    border-radius: 4px;
     padding: 6px;
     
 }
