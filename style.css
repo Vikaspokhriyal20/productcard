@@ -1,7 +1,7 @@
 *
 {
     box-sizing: border-box;
-    font-family:  monospace;
+    font-family: 'Arya', monospace;
 }
 
 body
@@ -39,15 +39,14 @@ h2
 #title
 {
     text-align: left;
-    color:white;
-    font-size: 14px;
-    letter-spacing: 1px;
+    color:black;
+    letter-spacing: 1.5px;
 }
 
 #price
 {
     text-align: left;
-    color: white;
+    color: black;
 }
 
 #discount
