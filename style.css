@@ -70,26 +70,17 @@ h2
     width: 80px;
 }
 
-#shop-now
-{
-    border: none;   
-    outline: none;
-    background-color: black;
-    color: white;
-    padding: 6px 6px;
-    border-radius: 4px;
-    cursor: pointer;
-}
-
 #AddCart
 {
     border: none;
     outline: none;
-    background-color:white;
-    color: black;
-    padding: 6px 6px;
+    background-color:black;
+    color: #fff;
+    padding: 6px 10px;
     cursor: pointer;
-    border-radius: 4px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
 }
 
 
